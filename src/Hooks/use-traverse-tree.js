@@ -28,10 +28,10 @@ const useTraverseTree = () => {
       } else if (node.isFolder) {
         deleteNode(node, id);
         return true;
-      } else {
-        return true;
       }
+      return true;
     });
+
     console.log(tree);
     return tree;
   }; // Do it Yourself

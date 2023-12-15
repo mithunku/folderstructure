@@ -31,6 +31,8 @@ const Folder = ({
   };
   const onDelete = (e) => {
     handleDeleteNode(explorer.id);
+
+    alert("deleted successfully");
   };
 
   const onUpdate = (e) => {
