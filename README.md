@@ -1,20 +1,3 @@
--------------------------------EVALUATION VIDEO--------------------------------------------------------
-
-https://drive.google.com/file/d/16GNs-NcBo5N8P0TQ5mP9AF8NqxOedTV3/view?usp=sharing
------------------------------------------------------------------------------------------------------------
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 # Getting Started with Create React App
